@@ -10,12 +10,12 @@ Authentication is handled through Firebase. It is possible to sign up, log in, l
 ### Training planner screen
 Users can view a calendar with all their planned trainings. It is possible to add a training to the calendar. Users can specify a title for the training and the distance and pace they plan to run. Furthermore, it is possible to remove trainings on a selected day. 
 
-<img src="https://github.com/JochemVanDerMeer/MarathonPlanner/blob/main/public/screenshot1.png" width="400">
+<img src="https://github.com/JochemVanDerMeer/MarathonPlanner/blob/main/public/screenshot1.png" width="500">
 
 ### Generate trainings screen
 Users can generate their own training plan for an upcoming marathon. They have to fill in a form and after submitting this these trainings will be visible at the training planner screen. The availability of the user and their easy and sprint pace is taken into account for generating the training plan. If a user wants to bulk remove trainings, this is possible by clicking on the designated button which deletes all scheduled trainings from their account.
 
-<img src="https://github.com/JochemVanDerMeer/MarathonPlanner/blob/main/public/screenshot2.png" width="400">
+<img src="https://github.com/JochemVanDerMeer/MarathonPlanner/blob/main/public/screenshot2.png" width="500">
 
 ### Upcoming marathons screen
 Users can view dates of upcoming marathons in Europe in a table. The data is fetched from an API that I created with Python. The repository of this API can be found at: https://github.com/JochemVanDerMeer/MarathonAPI/tree/main
