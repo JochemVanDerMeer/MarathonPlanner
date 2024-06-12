@@ -2,9 +2,6 @@
 
 A planning application with user authentication that allows users to plan their upcoming marathon. Users can create a manual training plan or generate a training plan through the app. It is possible to view upcoming marathons in Europe. Built with React, Flask and Firebase. Optimized for both desktop and mobile use. Deployed with Heroku.
 
-## Live version
-This application is live on https://marathonplanner-frontend.herokuapp.com/
-
 ## Project description
 
 ### Authentication
